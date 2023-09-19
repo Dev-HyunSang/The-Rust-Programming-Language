@@ -1,0 +1,1 @@
+/Users/park.hyunsang/dev/github/The_Rust_Programming_Language/ch02/guessing_game/target/debug/guessing_game: /Users/park.hyunsang/dev/github/The_Rust_Programming_Language/ch02/guessing_game/src/main.rs
